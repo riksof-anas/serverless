@@ -1,0 +1,44 @@
+{
+  "name": "@s2a/serverless",
+  "version": "1.0.0",
+  "description": "Repository for S2A lambda functions",
+  "keywords": [
+    "cloud functions",
+    "lambda",
+    "serverless"
+  ],
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/S2A-IO/serverless.git"
+  },
+  "scripts": {},
+  "author": {
+    "name": "RIKSOF (Private) Limited",
+    "email": "info@riksof.com"
+  },
+  "contributors": [
+    {
+      "name": "Khurram Ali",
+      "email": "info@riksof.com"
+    },
+    {
+      "name": "Anas Ahmed",
+      "email": "info@riksof.com"
+    }
+  ],
+  "homepage": "https://s2a.io",
+  "peerDependencies": {
+    "fcm-push": "1.1.3",
+    "nodemailer": "4.0.1",
+    "nodemailer-smtp-transport": "2.7.4",
+    "popsicle": "9.2.0",
+    "request": "2.88.2",
+    "twilio": "3.18.0",
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "5.2.0",
+    "mocha-jsdom": "1.1.0"
+  }
+}
