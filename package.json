@@ -34,7 +34,7 @@
     "nodemailer-smtp-transport": "2.7.4",
     "popsicle": "9.2.0",
     "request": "2.88.2",
-    "twilio": "3.18.0",
+    "twilio": "3.18.0"
   },
   "dependencies": {},
   "devDependencies": {
